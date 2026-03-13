@@ -33,4 +33,5 @@ Power BI dashboard project that visualizes supermarket sales data and key metric
 
 الفرق بين العملاء الذكور والإناث.
 
-![Dashboard Screen](لقطة شاشة (14).png)
+![Dashboard Screen](Screenshot(14).png)
+
